@@ -112,7 +112,7 @@ int main()
  	printf("\t\t****************************************************\n");
 	printf("\t\t*                                                  *\n");
 	printf("\t\t*       --------------------------------           *\n");
-	printf("\t\t*        WELCOME TO HOTEL  FORTUNE                 *\n");
+	printf("\t\t*        WELCOME TO HOTEL DREAM PALACE             *\n");
 	printf("\t\t*       --------------------------------           *\n");
 	printf("\t\t*                                                  *\n");
 	printf("\t\t*                                                  *\n");
